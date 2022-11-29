@@ -1,6 +1,6 @@
 # Meme Generator
 
-Meme Generator to practice complex React concepts such as events, props, state, useState, conditional rendering, forms and useEffect
+Meme Generator to practice complex React concepts such as events, props, state, useState, conditional rendering, forms and useEffect!
 ![image](https://user-images.githubusercontent.com/36734498/203976179-0877ceb6-abbd-4d56-a686-7e568abde3e5.png)
 
 ## Available Scripts
